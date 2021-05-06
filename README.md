@@ -4,10 +4,8 @@
 NSauceGen is a Java Application that literally opens your browser to a random sauce.
 
 There are a lot of planned features for nsaucegen and these are as follows:
-- An option to export to a text file
-- A method which checks if the sauce is nonexistent, requiring it to generate a new sauce
-- An option to HOPEFULLY open it in incognito.
-- A GUI which is bearable to look at.
+- An option to export to a text file. (pass)
+- A GUI which is bearable to look at. (pass)
 - An android port.
 
 ## Releases
