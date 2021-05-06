@@ -23,7 +23,7 @@ public class Saucegen {
                 System.out.println("Code 404: Finding a new sauce...");
                 generateSauce();
             } else {
-                System.out.println("Code " + rCode + ": Sending you to the suace!");
+                System.out.println("Code " + rCode + ": Sending you to the sauce!");
                 sendtoSite(code);
             }
         } catch (Exception e) {
