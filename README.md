@@ -10,13 +10,13 @@ There are a lot of planned features for nsaucegen and these are as follows:
 - A GUI (probably the least of my worries)
 - An android port.
 
-# Releases
+## Releases
 There will be no releases for this repository to prevent easy access. Please compile it on your own.
 
-# Issues
+## Issues
 Any bugs or mistakes? Feel free to create an [issue](https://github.com/tanyufukazawa/nsaucegen/issues/new) or a pull request.
 
 Any issues with the repository? Please feel free to let me know via discord so I can take appropriate action: `jari#9616`
 
-# Compiling
+## Compiling
 Use Netbeans.
