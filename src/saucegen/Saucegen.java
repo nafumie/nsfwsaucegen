@@ -46,7 +46,6 @@ public class Saucegen {
 //            rt.exec(new String[]{"cmd.exe", "/c", "start chrome /incognito nhentai.to/g/" + random_int});
             rt.exec(new String[]{"cmd.exe", "/c", "start msedge /inprivate nhentai.to/g/" + code});
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
